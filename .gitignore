@@ -1,0 +1,54 @@
+## User-specific files
+.idea/
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.DS_Store
+
+## ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Build results
+bin/
+obj/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files (64-bit)
+x64/
+x86/
+
+## ASP.NET Core web app settings
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+appsettings.local.json
+
+## Node.js
+node_modules/
+
+## JetBrains Rider
+.idea/
+
+## ASP.NET Core (dotnet) tool files
+dotnet-tools.json
+
+## Npm packages
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## VS Code directories
+.vscode/
+
+## Azure Pipelines
+.vsts/
